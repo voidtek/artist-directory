@@ -1,0 +1,187 @@
+/* CSS Document */
+@media print { .footer{display:none;}}
+@media screen { 
+	.footer{
+	width:998px;
+	height:auto;
+	background-image:url(../../images/graphics/templatesv2/background-footer.jpg);
+	background-image:url(../../images/graphics/templatesv2/background-footer-v2.png);
+	background-position:top;
+	background-repeat:no-repeat;
+	margin:-16px 0 0 0px;
+	float:left;
+	background-color:#2a5b86;
+	font-size:10px;
+	color:#fff;
+	font-weight:normal;
+	text-align:left;
+}}
+.footer a{color:#fff;}
+.footer-produit{
+	float:left;
+	padding:0px;
+	margin:5px 0 0 20px;
+	width:190px;
+}
+.footer-page{float:left; padding:0px; width:190px; margin:5px 0 0 20px; * html margin:5px 0 0 10px; }
+.footer-redac{float:left; padding:0px; width:200px; margin:5px 0 0 20px;}
+.footer-site{float:left; padding:0px; width:310px;height:200px; *height:auto; margin:5px 0 0 25px;}
+.copyright{position:absolute; padding:10px; margin:290px 0 0 655px; }
+.contact{
+width:390px;
+margin-top:70px;
+margin-left:20px;
+}
+.orange a{color:#FF6600;}
+.contact p{
+margin-left:30px;}
+
+.us{font-size:12px;margin-top:20px;float:left;}
+.plan{margin-left:20px;width:390px; line-height:11px;margin-top:20px;}
+.plan ul{margin-left:30px; margin-bottom:10px;}
+.plan ul li{margin-left:10px;margin-bottom:3px;}
+.plan a{color:#545454;font-size:11px;}
+.plan h3{font-size:12px;}
+
+.cgv{font-size:11px;}
+.cgv h3{
+	font-size:11px;
+	color:#000;
+	text-transform: none;
+}
+
+/*recrutement -----------------------  ----------------------- */
+.all-name-job{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin-left: 40px;
+	padding-bottom:10px;
+	height:auto;
+	}
+.all-name-job ul{
+	list-style-type: none;
+	margin:5px 0px 10px 0px;
+	padding:0px;
+	}
+.all-name-job li{
+	font-weight:bold;
+	text-transform: uppercase;
+	list-style-type: none;
+	margin:0px;
+	padding:0px;
+	line-height: 14px;
+	}
+.job{	
+	margin-top:10px;
+	border-top:1px solid #999999;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-top:15px;
+	}
+.title-job{
+	margin-bottom:20px;
+	}
+.title-job h3{
+	padding:14px 0px 5px 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	}
+
+.heading-description{
+	padding:0px 0px 10px 0px;
+
+	}
+.fonction, .type, .lieu, .statut{
+	font-weight:bold;
+	}
+p{
+	padding:4px 0px 4px 0px;
+	margin:0px;
+}
+.description-job h4{
+	padding:5px;
+	}
+.up-page{
+	padding:20px 0px 10px 0px;
+	text-align:left;
+	font-size:11px;
+	}
+.up-page img{
+	vertical-align: middle;}
+
+/* LOGO */
+.page-footer{
+background-color:#fff; 
+width:550px;
+padding:20px;
+margin:20px;
+border:1px solid #000;
+text-align:center;
+}
+.page-footer2{
+background-color:#fff; 
+width:780px;
+padding:20px;
+margin:20px;
+border:1px solid #000;
+text-align:center;
+}
+
+/*demande de doc*/
+.demandededocs{
+	background-image:url(../../images/graphics/templatesv2/background-demandedoc.jpg);
+	background-position:0px 0px;
+	background-repeat:no-repeat;
+	font-size:11px;
+	margin-top:15px;
+	float:left;
+	width:460px;
+	height:100%;
+	text-align:left;
+	padding:0px 15px 0px 15px;
+	-padding:0px 0px 0px 15px;
+	-margin-left:-5px;
+}
+input{font-size:10px;padding:1px;}
+.cadre-text{
+width:435px;height:100px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+border:1px solid #999;
+}
+.border{border:1px solid #999;}
+
+.footer-pub {
+	width:972px;
+	height:112px;
+	margin:10px auto 0 auto;
+	/*background-image:url(../../images/graphics/templatesv2/footer-pub-left.jpg);
+	background-position:left top;
+	background-repeat:no-repeat;*/
+}
+.footer-pub-left {
+	background-image:url(../../images/graphics/templatesv2/footer-pub-left.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	width:9px;
+	height:112px;
+	float:left;
+}
+.footer-pub-data {
+	background:#FFFFFF;
+	width:954px;
+	height:110px;
+	margin:1px 0 0 0;
+	text-align:center;
+	float:left;
+}
+.footer-pub-data #pubsas {
+	margin:10px 0 0 0;
+}
+.footer-pub-right {
+	background-image:url(../../images/graphics/templatesv2/footer-pub-right.gif);
+	background-position:left top;
+	background-repeat:no-repeat;
+	width:9px;
+	height:112px;
+	float:left;
+}

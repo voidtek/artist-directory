@@ -1,0 +1,1 @@
+<?php echo $content[0]['Content']['body']?>
