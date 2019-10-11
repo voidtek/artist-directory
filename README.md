@@ -1,3 +1,6 @@
+# THIS PROJECT IS DEPRECATED
+The project is not maintained anymore.
+
 # artist-directory
 Artist Directory - CAKEPHP
 
